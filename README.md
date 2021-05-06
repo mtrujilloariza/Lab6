@@ -1,1 +1,1 @@
-(link to site)[https://mtrujilloariza.github.io/Lab6/]
+[link to site](https://mtrujilloariza.github.io/Lab6/)
